@@ -1,0 +1,50 @@
+.navbar{
+  font-size: 1.3rem;
+}
+
+.btn{
+  margin: auto 0.5rem;
+}
+
+.content{
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  grid-template-areas: 'left right';
+  margin: 5% 15%;
+}
+
+.img {
+  grid-area: left;
+  margin: auto;
+}
+
+.register-form {
+  grid-area: right;
+  text-align: center;
+  margin: 2% 5%;
+  font-size: 2rem;
+}
+
+#document{
+  text-align: left;
+  font-size: 1rem;
+}
+
+
+footer{
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #1b262c;
+  margin-top: 3.3%;
+}
+
+.footer-icon{
+margin: auto 20px;
+color: white;
+margin-bottom: 15px;
+}
+
+.footer-text{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}

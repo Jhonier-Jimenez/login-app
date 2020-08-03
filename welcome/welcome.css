@@ -1,0 +1,36 @@
+.navbar{
+  font-size: 1.3rem;
+}
+
+.btn{
+  margin: auto 0.5rem;
+}
+
+.message{
+text-align: center;
+}
+
+.welcome{
+  margin: 19% auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5rem;
+}
+
+
+footer{
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #1b262c;
+  margin-top: 3.3%;
+}
+
+.footer-icon{
+margin: auto 20px;
+color: white;
+margin-bottom: 15px;
+}
+
+.footer-text{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
